@@ -21,3 +21,5 @@ node_modules/
 # WebStorm
 #//////////////////////////
 .idea/
+
+.deploy_git/
