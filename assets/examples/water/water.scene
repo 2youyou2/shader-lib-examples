@@ -129,9 +129,9 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -12.75,
-      "y": 6.822,
-      "z": -13.754
+      "x": -15.196,
+      "y": 9.833,
+      "z": -16.833
     },
     "_lrot": {
       "__type__": "cc.Quat",
@@ -179,7 +179,7 @@
     },
     "_depth": 1,
     "_stencil": 0,
-    "_clearFlags": 7,
+    "_clearFlags": 14,
     "_rect": {
       "__type__": "cc.Rect",
       "x": 0,
@@ -2731,9 +2731,11 @@
   },
   {
     "__type__": "cc.SkyboxInfo",
-    "_envmap": null,
+    "_envmap": {
+      "__uuid__": "cd8bbbb2-c54f-446a-8493-19b6285c3104@b47c0"
+    },
     "_isRGBE": false,
-    "_enabled": false,
+    "_enabled": true,
     "_useIBL": false
   }
 ]
