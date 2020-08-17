@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.0",
+  "importer": "render-texture",
+  "imported": true,
+  "uuid": "7e353b34-6a4f-4e44-b95d-9c0b3e7b1c01",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "size": {
+      "width": 256,
+      "height": 256
+    },
+    "depthStencilTypeFormat": 56
+  }
+}
